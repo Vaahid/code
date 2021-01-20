@@ -1,0 +1,46 @@
+
+body {
+    background-color: darkgray;
+}
+div { 
+    background-color: darkslategrey;
+    border-radius: 12px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+p {
+    text-align: center;
+    text-decoration: dodgerblue;
+    color: dodgerblue;
+}
+a {
+    color: dodgerblue;
+}
+a:link {
+    color: firebrick;
+    font-size: 25px;
+    background-color: darkslategrey;
+    border-radius: 7px;
+    text-decoration: none;
+    
+}
+a:hover {
+    color: gold;
+    font-size: 27px;
+}
+a:active {
+    color: maroon;
+    font-size: 22px;
+}
+img {
+    margin-left: 100px;
+}
+.klassa {
+    color: black;
+    font-size: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.klasa {
+    margin-right: 500px;
+}
