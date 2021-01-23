@@ -1,46 +1,47 @@
-
 body {
-    background-color: darkgray;
+    background-color: cadetblue;
 }
-div { 
-    background-color: darkslategrey;
-    border-radius: 12px;
-    margin-right: 200px;
-    margin-left: 200px;
+.text1 {
+    color: chocolate;
 }
-p {
-    text-align: center;
-    text-decoration: dodgerblue;
-    color: dodgerblue;
+.text2 {
+    color: darkred;
 }
-a {
-    color: dodgerblue;
+.text3 {
+    color: darkolivegreen;
+}
+.text4 {
+    color: darkorchid;
+}
+.text5 {
+    color: deeppink;
 }
 a:link {
-    color: firebrick;
-    font-size: 25px;
-    background-color: darkslategrey;
-    border-radius: 7px;
-    text-decoration: none;
+    color: black;
+    font-size: 24px;
     
+    border-radius: 9px;
+    padding: 3px;
+    text-decoration: none;
 }
 a:hover {
-    color: gold;
-    font-size: 27px;
+    background-color: white;
+    font-size: 26px;
+    color: blue;
 }
 a:active {
-    color: maroon;
-    font-size: 22px;
+    font-size: 23px;
+    background-color: black;
+    color: red;
 }
-img {
-    margin-left: 100px;
+.tabela {
+    border: red solid 2px;
 }
-.klassa {
-    color: black;
-    font-size: 15px;
-    margin-left: 200px;
-    margin-right: 200px;
+.galerija {
+    border: black solid 0px;
 }
-.klasa {
-    margin-right: 500px;
+.animacija:hover {
+    width: 300px;
+    height: 250px;
+    opacity: 0.6;
 }
